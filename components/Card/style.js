@@ -12,7 +12,7 @@ const styles = StyleSheet.create({
         resizeMode: "cover",
         position: "absolute",
     },
-    Cardbody: {
+    Cardupperbody: {
         marginTop: "30%",
         width: '100%',
         alignItems: 'center',
